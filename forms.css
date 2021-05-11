@@ -1,0 +1,50 @@
+.contact-main-body {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .card {
+    width: 510px;
+    height: 280px;
+    background: #ffffff;
+    background: #FFFFFF;
+    border: 2px solid #BCC3CD;
+    border-radius: 5px;
+    margin-left: auto;
+    box-shadow: -12px 11px 9px rgba(57, 57, 57, 0.25);
+}
+
+form {
+    width: 600px;
+}
+
+input:nth-child(-n+4) {
+    display: block;
+    opacity: 0.3;
+    border: 2px solid rgba(40, 81, 147, .3);
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 21px;
+    padding: 15px 0 15px 16px;
+    background: rgba(241, 241, 241, .3);
+}
+
+input::placeholder,
+textarea::placeholder {
+    font-size: 18px;
+    line-height: 21px;
+    color: #888888;
+
+}
+
+textarea {
+    background: rgba(241, 241, 241, .3);
+    padding-left: 16px;
+    padding-top: 15px;
+    font-size: 18px;
+    line-height: 21px;
+    border:
+} */
